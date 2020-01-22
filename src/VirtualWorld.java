@@ -37,7 +37,7 @@ public class VirtualWorld {
         worldPanel.addMouseListener(new MouseListener() {
             @Override
             public void mouseClicked(MouseEvent me) {
-                world.addAtPixelPosition((me.getX()/10)+1, (me.getY()/10)+1);
+                world.addAtPixelPosition((me.getX()/20)+1, (me.getY()/20)+1);
                 worldPanel.repaint();
             }
             @Override
@@ -91,7 +91,6 @@ public class VirtualWorld {
         DefaultCaret caret = (DefaultCaret)console.getCaret();
         caret.setUpdatePolicy(ALWAYS_UPDATE);
         console.setEditable(false);
-        //console.setLineWrap(true);
         JScrollPane scrollWrapper = new JScrollPane(console);
         scrollWrapper.setVerticalScrollBarPolicy(
                 JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
@@ -112,8 +111,8 @@ public class VirtualWorld {
         world.setConsole(console);
         world.consoleLogLn("Kliknij na dowolne pole aby dodać organizm");
 
-        JFrame frame = new JFrame("Piotr Wontka 167951- wirtualny świat");
-        frame.setSize(420, 680);
+        JFrame frame = new JFrame("Michał Reclaw- wirtualny świat");
+        frame.setSize(480, 680);
         frame.add(worldPanel);
         frame.add(consoleWrapper, BorderLayout.PAGE_END);
         frame.setVisible(true);

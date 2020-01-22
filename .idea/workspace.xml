@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6818120b-b394-45ee-8d83-750c4caa44b7" name="Default Changelist" comment="" />
+    <list default="true" id="6818120b-b394-45ee-8d83-750c4caa44b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guaranna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kangaroo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivingBeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sloth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VirtualWorld.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +31,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WfiOECmfS3TMo0duYwxSqKknX4" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/WirtualnySwiat_Java-master/WirtualnySwiat_Java-master" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -27,6 +55,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VirtualWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualWorld" />
+      <module name="VirtualWorldJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VirtualWorld" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,5 +82,18 @@
       <updated>1579547015609</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
